@@ -1,3 +1,5 @@
+// USACO 2020 December Contest, Bronze, Problem 1
+
 #include <bits/stdc++.h>
 
 using namespace std;
