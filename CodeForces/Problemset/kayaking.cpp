@@ -32,4 +32,5 @@ int main() {
 
 // This solution fails on CodeForces' grader with an
 // 'out of bounds' error for some fucking reason. Regardless,
-// I'm counting this as a dub.
+// I'm counting this as a dub. (even though I read the editorial
+// and don't really understand this)
