@@ -1,3 +1,5 @@
+# CCC '13 S1
+
 y = int(input())
 
 def nextyear(year):
